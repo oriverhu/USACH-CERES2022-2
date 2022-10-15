@@ -2,4 +2,4 @@
 | ------ | -------- | ----------- |
 | Orianna| Nuñez    | oriverhu    | 
 | Angelo | Ortiz | @aortizy|
-| Marco-Antoni | Serey | @mserey  |
+| Marco Antonio | Serey | @mserey  |
