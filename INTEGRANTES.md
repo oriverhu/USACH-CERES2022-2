@@ -6,4 +6,4 @@
 | Jhonatan Angelo  | Ortiz       | @aortizy        |
 | Luis Andrés      | Domínguez   | @ldominguez1986 |
 | Ignacio Alfredo  | Rocha Pavez | NachoRoxa       |
-| Marco-Antoni     | Serey       | @mserey         |
+| Marco Antonio    | Serey       | @mserey         |
