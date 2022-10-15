@@ -1,4 +1,5 @@
 | Nombre | Apellido | Usuario Git |
 | ------ | -------- | ----------- |
-| Orianna| Nuñez    | oriverhu    |
+| Orianna| Nuñez    | oriverhu    | 
+| Angelo | Ortiz | @aortizy|
 | Luis   | Domínguez| ldominguez1986 |
