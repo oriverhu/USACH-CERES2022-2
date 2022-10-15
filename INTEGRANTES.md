@@ -2,4 +2,4 @@
 | ------ | -------- | ----------- |
 | Orianna| Nuñez    | oriverhu    | 
 | Angelo | Ortiz | @aortizy|
-| Luis   | Domínguez| ldominguez1986 |
+| Luis Andrés | Domínguez| @ldominguez1986 |
